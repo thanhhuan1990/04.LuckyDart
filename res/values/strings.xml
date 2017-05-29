@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lucky Dart</string>
+    
+    <string name="Admob_Key_Interstitial">ca-app-pub-9710312053534636/9149320505</string>
+    <string name="Admob_Key_Banner">ca-app-pub-9710312053534636/7672587305</string>
+    
+    <string name="action_settings">Settings</string>
+
+    <string name="Point">Highest Point: %d</string>
+    
+    <string name="Camera_Doesnt_Exist">Your device doesn\'t have camera!!!</string>
+    
+    <string name="Repick">Your Image Is Too Small !!!\n
+        					Do You Want To Use This ?</string>
+    <string name="Repick_repick">Repick</string>
+    <string name="Repick_continue">Continue</string>
+    
+</resources>
